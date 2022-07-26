@@ -34,7 +34,7 @@ Analyse the data of INN Hotels to find which factors have a high influence on bo
 
 
 ### Jun'22
-##EasyVisa
+## EasyVisa
 **Course:** Ensemble Techniques
 
 Analyze the data of Visa applicants, build a predictive model to facilitate the process of visa approvals, and based on important factors that significantly influence the Visa status recommend a suitable profile for the applicants for whom the visa should be certified or denied.
@@ -43,4 +43,4 @@ Analyze the data of Visa applicants, build a predictive model to facilitate the 
 
 
 ### July'22
-##ReneWind
+## ReneWind
